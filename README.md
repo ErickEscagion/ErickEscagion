@@ -3,7 +3,7 @@
 <p>
     Estudante de Engenharia de Computação na <a href="https://facens.br">Facens</a>
         </br>
-        Desenvolvedor de Software na <a href="https://likkn.com/"> Likkn </a>
+        Starter na <a href="https://www.gft.com/br/pt/"> GFT </a>
     </em>
 </p>
 
